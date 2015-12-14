@@ -22,3 +22,4 @@ MFC程式練習上傳範例<br />
 20.FineGetLine<br />
 21.Map練習<br />
 22.TeeChartDraw加資料庫練習<br />
+23.ODBC資料庫練習<br />
