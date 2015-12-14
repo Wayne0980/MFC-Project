@@ -18,5 +18,7 @@ MFC程式練習上傳範例<br />
 16.List練習<br />
 17.Vector練習<br />
 18.Iterators練習<br />
-19. <br />
-20. FineGetLine<br />
+19.TeeChart 練習<br />
+20.FineGetLine<br />
+21.Map練習<br />
+22.TeeChartDraw加資料庫練習<br />
